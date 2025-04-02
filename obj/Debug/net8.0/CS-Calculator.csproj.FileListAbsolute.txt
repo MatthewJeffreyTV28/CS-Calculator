@@ -1,0 +1,15 @@
+C:\Users\mwjef\Documents\Repos-Games\CS-Calculator\bin\Debug\net8.0\CS-Calculator.exe
+C:\Users\mwjef\Documents\Repos-Games\CS-Calculator\bin\Debug\net8.0\CS-Calculator.deps.json
+C:\Users\mwjef\Documents\Repos-Games\CS-Calculator\bin\Debug\net8.0\CS-Calculator.runtimeconfig.json
+C:\Users\mwjef\Documents\Repos-Games\CS-Calculator\bin\Debug\net8.0\CS-Calculator.dll
+C:\Users\mwjef\Documents\Repos-Games\CS-Calculator\bin\Debug\net8.0\CS-Calculator.pdb
+C:\Users\mwjef\Documents\Repos-Games\CS-Calculator\obj\Debug\net8.0\CS-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mwjef\Documents\Repos-Games\CS-Calculator\obj\Debug\net8.0\CS-Calculator.AssemblyInfoInputs.cache
+C:\Users\mwjef\Documents\Repos-Games\CS-Calculator\obj\Debug\net8.0\CS-Calculator.AssemblyInfo.cs
+C:\Users\mwjef\Documents\Repos-Games\CS-Calculator\obj\Debug\net8.0\CS-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\mwjef\Documents\Repos-Games\CS-Calculator\obj\Debug\net8.0\CS-Calculator.sourcelink.json
+C:\Users\mwjef\Documents\Repos-Games\CS-Calculator\obj\Debug\net8.0\CS-Calculator.dll
+C:\Users\mwjef\Documents\Repos-Games\CS-Calculator\obj\Debug\net8.0\refint\CS-Calculator.dll
+C:\Users\mwjef\Documents\Repos-Games\CS-Calculator\obj\Debug\net8.0\CS-Calculator.pdb
+C:\Users\mwjef\Documents\Repos-Games\CS-Calculator\obj\Debug\net8.0\CS-Calculator.genruntimeconfig.cache
+C:\Users\mwjef\Documents\Repos-Games\CS-Calculator\obj\Debug\net8.0\ref\CS-Calculator.dll
